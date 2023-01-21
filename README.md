@@ -39,7 +39,7 @@ Please open Windows Powershell console, and run the following command in the con
 </pre>
 
 <br>
-This <a href="./KerasOCRTextBoxRecognizer.py">KerasOCRTextBoxRecognizer.py</a> script reads the recognition.conf file.<br>
+This <a href="./KerasOCRTexBoxRecognizer.py">KerasOCRTextBoxRecognizer.py</a> script reads the recognition.conf file.<br>
 <pre>
 [parameter]
 images_dir   = "./samples"
